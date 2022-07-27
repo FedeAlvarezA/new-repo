@@ -6,7 +6,7 @@ enum Enum {
   VAL1, VAL2, VAL3
 };
 
-char32_t unicode_string = U"\U0010FFFF";
+char32_t unicode_string = U"\U0010FFFE";
 string raw_string = R"delim(anything
 you
 want)delim";
