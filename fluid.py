@@ -1,2 +1,2 @@
 def helloWorld():
-    print
+    print("Hello from fluid!")
